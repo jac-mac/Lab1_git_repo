@@ -4,4 +4,8 @@ Thomas Shelby quotes:
 
 Arthur Shelby quotes:
 
-1. "Who wants to be in heaven, eh? Who wants to be in limbo when you can be sending men to f**king hell?"
+<<<<<<< HEAD
+1. "Who wants to be in heaven, eh? Who wants to be in heaven when you can be sending men to f**king hell?"
+=======
+1. "Who wants to be in heaven, eh? Who wants to be in hell when you can be sending men to f**king heaven?"
+>>>>>>> alfie_solomons
